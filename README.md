@@ -52,7 +52,7 @@ While team members do not need to attend the same university, all team members m
 -   **US-Canada**: Hosting students from universities located within the United States or Canada.
 -   **Europe:** Hosting students from universities located in the European Union, Switzerland, Norway, Armenia, United Kingdom.
 -   **India:** Hosting students from universities located in India.
--   **MENA:** Hosting students from universities located in Algeria, Azerbaijan, Bahrain, Chad, Djibouti, Egypt, Eritrea, Georgia, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Libya, Mauritania, Morocco, Oman, Pakistan, Palestine, Qatar, Saudi Arabia, South Sudan, Sudan, Syria, Tunisia, Turkey, United Arab Emirates, or Yemen.
+-   **MENA:** Hosting students from universities located in Algeria, Azerbaijan, Bahrain, Chad, Djibouti, Egypt, Eritrea, Georgia, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Libya, Mauritania, Morocco, Oman, Pakistan, Qatar, Saudi Arabia, South Sudan, Sudan, Syria, Tunisia, Turkey, United Arab Emirates, or Yemen.
 
 
 To be able to qualify to the final round, each team must register for the correct region based on the university affiliations of its members.
